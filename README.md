@@ -1,9 +1,9 @@
 ## Overview
 
-This is a clone of ChatGPT.
-Run `streamlit run chatbot.py` for just a simple casual conversation with ChatGPT.
-![Casual ChatGPT](chatbot.png)
-Run `streamlit run retrieval-chatbot.py` for a LLM that can chat with documents or some other source of knowledge.
+This is a clone of ChatGPT. <br />
+Run `streamlit run chatbot.py` for just a simple casual conversation with ChatGPT. <br />
+![Casual ChatGPT](chatbot.png) <br />
+Run `streamlit run retrieval-chatbot.py` for a LLM that can chat with documents or some other source of knowledge. <br />
 ![Retrieval ChatGPT](retrieval.png)
 
 ---
