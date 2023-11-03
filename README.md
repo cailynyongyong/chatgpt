@@ -15,7 +15,7 @@ Make sure to fill in the API keys for OpenAI.
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip3 install openai langchain python-dotenv tiktoken faiss-cpu
+pip3 install openai langchain python-dotenv tiktoken faiss-cpu streamlit chromadb bs4
 streamlit run chatbot.py
 ```
 
